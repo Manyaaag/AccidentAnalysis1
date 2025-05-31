@@ -1,0 +1,54 @@
+ACCIDENT_NO,PERSON_ID,VEHICLE_ID,SEX,AGE_GROUP,INJ_LEVEL,INJ_LEVEL_DESC,SEATING_POSITION,HELMET_BELT_WORN,ROAD_USER_TYPE,ROAD_USER_TYPE_DESC,LICENCE_STATE,TAKEN_HOSPITAL,EJECTED_CODE,VEHICLE_TYPE_DESC,NO_OF_WHEELS,NO_OF_CYLINDERS,SEATING_CAPACITY,TARE_WEIGHT,TOTAL_NO_OCCUPANTS,VEHICLE_YEAR_MANUF,VEHICLE_BODY_STYLE,VEHICLE_MAKE,SPEED_ZONE,BeltCat,SeatCat,VehCluster
+T20210020473,01,A,F,50-59,4,Not injured,LF,1,3,Passengers,,,0,Station Wagon,4.0,4.0,7.0,1907.0,2.0,2013.0,S WAG,HOLDEN,,,Front,0
+T20220022844,A,A,M,30-39,3,Other injury,D,1,2,Drivers,V,N,0,Utility,4.0,4.0,5.0,2025.0,1.0,2021.0,UTIL,NISSAN,,Belted,Front,1
+T20180019004,01,A,F,70+,3,Other injury,LF,1,3,Passengers,,N,0,Car,4.0,6.0,5.0,1400.0,2.0,1993.0,SEDAN,HOLDEN,,Belted,Front,0
+T20120006735,02,A,M,30-39,4,Not injured,LF,9,3,Passengers,,,0,Car,4.0,6.0,5.0,1350.0,3.0,1989.0,SEDAN,HOLDEN,,,Front,0
+T20200018915,A,A,M,70+,4,Not injured,D,1,2,Drivers,V,,,Station Wagon,4.0,6.0,5.0,1700.0,1.0,2004.0,S WAG,B M W,,Belted,Front,0
+T20230002513,A,A,F,40-49,2,Serious injury,D,1,2,Drivers,V,Y,,Car,4.0,4.0,5.0,1160.0,1.0,2004.0,SEDAN,TOYOTA,,Belted,Front,1
+T20140014417,B,B,M,22-25,3,Other injury,D,1,2,Drivers,V,N,0,Car,4.0,6.0,5.0,1550.0,1.0,2006.0,SEDAN,FORD,,Belted,Front,0
+T20240008553,A,A,M,70+,4,Not injured,D,1,2,Drivers,V,,0,Utility,4.0,4.0,3.0,1425.0,1.0,2007.0,UTIL,FORD,,Belted,Front,1
+T20170020741,A,A,F,22-25,3,Other injury,D,1,2,Drivers,V,N,0,Car,4.0,4.0,5.0,1182.0,1.0,2007.0,SEDAN,CITRN,,Belted,Front,1
+T20220015529,A,A,F,30-39,3,Other injury,D,1,2,Drivers,V,,0,Car,4.0,4.0,5.0,1114.0,1.0,2010.0,SEDAN,NISSAN,,Belted,Front,1
+T20180013493,A,A,M,18-21,3,Other injury,D,1,2,Drivers,V,,0,Car,4.0,4.0,5.0,1000.0,1.0,2007.0,SEDAN,SUZUKI,,Belted,Front,1
+T20120008782,03,A,M,22-25,4,Not injured,OR,1,3,Passengers,,,0,Station Wagon,4.0,4.0,8.0,2128.0,7.0,2010.0,WAGON,HYNDAI,,Belted,Rear,1
+T20220007048,A,A,M,65-69,3,Other injury,D,1,2,Drivers,V,Y,,Car,4.0,4.0,4.0,1590.0,2.0,2009.0,TOURER,HOLDEN,,Belted,Front,1
+T20120003627,A,A,F,18-21,2,Serious injury,D,2,2,Drivers,V,Y,0,Car,4.0,4.0,5.0,1150.0,1.0,2001.0,SEDAN,HOLDEN,100.0,Unbelted,Front,0
+T20230018155,C,C,M,22-25,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,6.0,5.0,1465.0,1.0,2005.0,SEDAN,TOYOTA,,Belted,Front,1
+T20220008448,A,A,F,30-39,3,Other injury,D,1,2,Drivers,V,N,0,Station Wagon,4.0,4.0,5.0,1675.0,1.0,2019.0,WAGON,TOYOTA,,,Front,1
+T20120000864,A,A,F,22-25,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,6.0,5.0,1400.0,1.0,1994.0,SED,FORD,,Belted,Front,0
+T20220023296,B,B,F,50-59,3,Other injury,D,9,2,Drivers,V,N,0,Car,4.0,4.0,5.0,1435.0,1.0,2006.0,SEDAN,HONDA,,,Front,1
+T20230001438,03,B,F,40-49,3,Other injury,LF,1,3,Passengers,,,0,Utility,4.0,6.0,5.0,2147.0,4.0,2021.0,DC UTE,VOLKS,,Belted,Front,0
+T20160017317,B,B,M,18-21,3,Other injury,D,1,2,Drivers,V,,0,Car,4.0,4.0,5.0,1350.0,1.0,2003.0,SEDAN,TOYOTA,,Belted,Front,1
+T20140008416,B,B,F,50-59,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,4.0,5.0,1356.0,1.0,2004.0,SEDAN,MAZDA,60.0,Belted,Front,1
+T20160012475,B,B,F,22-25,2,Serious injury,D,1,2,Drivers,V,Y,0,Car,4.0,6.0,5.0,1642.0,1.0,2004.0,SEDAN,HOLDEN,,Belted,Front,0
+T20160021207,B,B,M,40-49,4,Not injured,D,1,2,Drivers,V,,0,Station Wagon,4.0,4.0,7.0,1880.0,1.0,2014.0,WAGON,KIA,,Belted,Front,1
+T20170017930,B,B,M,18-21,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,6.0,5.0,1600.0,2.0,2002.0,SEDAN,HOLDEN,,Belted,Front,0
+T20240007332,A,A,M,40-49,2,Serious injury,D,1,2,Drivers,V,Y,0,Prime Mover - Single Trailer,6.0,6.0,2.0,10020.0,1.0,2018.0,P MVR,VOLVO,,Belted,Front,2
+T20160015224,01,B,M,70+,4,Not injured,LF,1,3,Passengers,,,0,Station Wagon,4.0,4.0,5.0,1250.0,2.0,2004.0,WAGON,REN,,Belted,Front,1
+T20190016144,01,B,M,70+,2,Serious injury,LF,1,3,Passengers,,Y,0,Station Wagon,4.0,4.0,4.0,1085.0,2.0,1996.0,WAGON,SUZUKI,,Belted,Front,1
+T20230000842,B,B,F,30-39,3,Other injury,D,1,2,Drivers,V,Y,0,Car,4.0,4.0,5.0,1377.0,1.0,2022.0,SEDAN,HYNDAI,,Belted,Front,1
+T20140004430,B,B,M,50-59,4,Not injured,D,8,2,Drivers,V,,0,Prime Mover - Single Trailer,6.0,6.0,2.0,10500.0,1.0,2010.0,P MVR,VOLVO,,Unbelted,Front,2
+T20230004452,A,A,U,Unknown,3,Other injury,D,1,2,Drivers,V,,0,Station Wagon,4.0,4.0,5.0,1795.0,1.0,2021.0,WAGON,PORSCH,,Belted,Front,1
+T20200014620,A,A,M,16-17,4,Not injured,D,1,2,Drivers,V,,0,Station Wagon,4.0,6.0,5.0,2095.0,2.0,2004.0,WAGON,FORD,,Belted,Front,0
+T20210002967,B,B,F,26-29,4,Not injured,D,1,2,Drivers,V,,0,Station Wagon,4.0,6.0,7.0,1764.0,1.0,2009.0,WAGON,HOLDEN,,Belted,Front,0
+T20210010126,A,A,F,22-25,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,4.0,5.0,1363.0,1.0,2011.0,SEDAN,HYNDAI,,Belted,Front,1
+T20140009332,A,A,M,70+,4,Not injured,D,1,2,Drivers,V,,0,Utility,4.0,4.0,2.0,1880.0,1.0,2006.0,UTIL,NISSAN,,Belted,Front,1
+T20120012101,A,A,F,70+,2,Serious injury,D,1,2,Drivers,V,Y,0,Car,4.0,6.0,5.0,1635.0,2.0,2008.0,SEDAN,LEXUS,,Belted,Front,0
+T20170016410,01,A,M,18-21,4,Not injured,LF,1,3,Passengers,,,0,Panel Van,4.0,4.0,3.0,1943.0,2.0,2011.0,VAN,REN,,Belted,Front,1
+T20170015453,A,A,F,50-59,4,Not injured,D,1,2,Drivers,V,,0,Station Wagon,4.0,4.0,5.0,1190.0,1.0,2016.0,WAGON,MAZDA,,Belted,Front,1
+T20230022247,01,B,F,13-15,3,Other injury,LF,1,3,Passengers,,N,0,Car,4.0,4.0,5.0,1503.0,2.0,2003.0,SEDAN,HOLDEN,,Belted,Front,0
+T20190013108,B,B,F,30-39,3,Other injury,D,1,2,Drivers,V,N,0,Car,4.0,6.0,5.0,1754.0,2.0,2010.0,SEDAN,FORD,,Belted,Front,1
+T20150019684,E,E,F,22-25,3,Other injury,D,1,2,Drivers,O,,0,Station Wagon,4.0,4.0,5.0,1500.0,1.0,2014.0,WAGON,JEEP,,Belted,Front,0
+T20230014352,B,B,F,22-25,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,4.0,5.0,1225.0,1.0,2006.0,SEDAN,MAZDA,,Belted,Front,1
+T20140002449,B,B,M,50-59,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,4.0,5.0,1264.0,1.0,2000.0,SEDAN,HYNDAI,,Belted,Front,1
+T20170008515,B,B,F,40-49,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,6.0,5.0,1600.0,3.0,2006.0,SEDAN,FORD,,Belted,Front,0
+T20120018859,01,A,M,18-21,4,Not injured,LF,1,3,Passengers,V,,0,Car,4.0,6.0,5.0,1350.0,2.0,1998.0,SEDAN,HOLDEN,,,Front,0
+T20210003063,B,B,F,26-29,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,4.0,5.0,1270.0,1.0,2009.0,SEDAN,MAZDA,,,Front,1
+T20140019783,A,A,M,50-59,4,Not injured,D,1,2,Drivers,V,,0,Car,4.0,4.0,5.0,1400.0,1.0,2007.0,SEDAN,HONDA,,Belted,Front,1
+T20230026349,01,A,F,50-59,4,Not injured,LF,1,3,Passengers,,,9,Utility,4.0,4.0,5.0,2075.0,2.0,2018.0,DC UTE,HOLDEN,,Belted,Front,1
+T20140021058,A,A,M,40-49,3,Other injury,D,1,2,Drivers,N,N,0,Station Wagon,4.0,6.0,5.0,1710.0,5.0,1998.0,S WAG,TOYOTA,,Belted,Front,0
+T20240018022,B,B,M,40-49,4,Not injured,D,1,2,Drivers,V,,0,Heavy Vehicle (Rigid) > 4.5 Tonnes,4.0,6.0,3.0,6300.0,1.0,1999.0,T TRK,ISUZU,,Belted,Front,0
+T20180000833,04,B,U,13-15,4,Not injured,OR,1,3,Passengers,,,0,Station Wagon,4.0,6.0,7.0,2562.0,4.0,2014.0,WAGON,L ROV,,Belted,Rear,0
+T20190026021,A,A,M,18-21,4,Not injured,D,9,2,Drivers,V,,9,Station Wagon,4.0,4.0,5.0,1500.0,1.0,2014.0,WAGON,KIA,,,Front,1
+T20130012393,B,B,M,30-39,4,Not injured,D,9,2,Drivers,V,,0,Car,4.0,6.0,5.0,1622.0,1.0,2008.0,SEDAN,HOLDEN,,,Front,0
+T20200003314,A,A,M,70+,3,Other injury,D,1,2,Drivers,Z,,0,Car,4.0,4.0,5.0,1360.0,1.0,2019.0,SEDAN,KIA,,,Front,1
